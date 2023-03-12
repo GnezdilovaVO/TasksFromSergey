@@ -24,7 +24,12 @@
 
 [Код](homework_33/Program.cs)
 
-3. Homework_37
+4. Homework_37
 #### В одномерном массиве из 123 чисел найти количество элементов из отрезка [10, 99]
 
 [Код](homework_37/Program.cs)
+
+5. tetris_00
+#### Создать тетрис
+
+[Код](tetris_00/Program.cs)
